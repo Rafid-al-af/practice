@@ -10,7 +10,7 @@ public class Box
 	{
 		length = l;
 	}
-	public void setWidth(double w)
+	public void setWidth(double u)
 	{
 		width = w;
 	}
